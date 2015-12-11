@@ -1,0 +1,3 @@
+[submodule "submodules/test-branched-releases"]
+	path = submodules/test-branched-releases
+	url = git@github.com:vchudnov/test-branched-releases.git
